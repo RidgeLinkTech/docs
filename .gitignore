@@ -18,8 +18,10 @@ Desktop.ini
 _site/
 _build/
 site/
-public/
 dist/
+
+# Astro cache
+.astro/
 
 # Node (if using a static site generator)
 node_modules/

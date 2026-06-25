@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-label="RidgeLink Technologies">
+  <rect width="520" height="120" rx="18" fill="#0B1D35"/>
+  <path d="M54 83 L98 35 L132 83 Z" fill="#EAF4FF"/>
+  <path d="M82 83 L125 30 L172 83 Z" fill="#1F6AA5"/>
+  <path d="M132 83 L167 45 L206 83 Z" fill="#78B7E6"/>
+  <text x="235" y="55" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">RidgeLink</text>
+  <text x="236" y="84" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3" fill="#BFD7EA">TECHNOLOGIES</text>
+</svg>
