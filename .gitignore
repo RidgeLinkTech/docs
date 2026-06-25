@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documentation build output
+_site/
+_build/
+site/
+public/
+dist/
+
+# Node (if using a static site generator)
+node_modules/
+.cache/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
